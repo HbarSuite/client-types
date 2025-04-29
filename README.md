@@ -24,7 +24,7 @@ npm install @hsuite/client-types
 
 ### Dependencies
 - @hsuite/hashgraph-types: 2.0.0
-- @hsuite/nestjs-swagger: 2.0.0
+- @hsuite/nestjs-swagger: 1.0.3
 
 ## Usage
 

@@ -46,7 +46,6 @@ export namespace IClient {
      * - API endpoint configuration
      * 
      * @see {@link _IOptions} for detailed property documentation
-     * @see {@link Client.Options} for the concrete implementation
      * @since 2.0.0
      * 
      * @example
